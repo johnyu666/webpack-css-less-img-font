@@ -1,0 +1,13 @@
+@import './other.css';
+@font-face {
+    font-family: 'candy';
+    src: url('../fonts/Hanyi Senty Candy-color.ttf');
+}
+.tip{
+    background-color: #fff;
+    color: red;
+}
+body{
+    background-image: url('./images/bai.png');
+    font-family: candy;
+}
