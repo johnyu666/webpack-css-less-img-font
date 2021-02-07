@@ -1,7 +1,7 @@
- import  './css/style.css'
+ import  './style/style.css'
+ import './style/style.less'
 
 window.onload=function(){
-    
     let info=document.createElement('h1')
     info.innerHTML="Candy font, 这是糖果体！"
     info.classList.add('tip')
